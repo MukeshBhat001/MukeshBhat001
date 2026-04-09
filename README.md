@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I am Mukesh Bhat</h1>
 <h3 align="center">A passionate frontend developer & Graphic Designer from Nepal</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mukeshbhat001" alt="mukeshbhat001" /></a> </p>
-
 - 🔭 I’m currently working on **Robotics Website**
 
 - 🌱 I’m currently learning **React,Django**
