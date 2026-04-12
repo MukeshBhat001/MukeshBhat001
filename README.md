@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I am Mukesh Bhat</h1>
 <h3 align="center">A passionate frontend developer & Graphic Designer from Nepal</h3>
 
-- 🔭 I’m currently working on **Educational Website - Sajha Entrance **
+- 🔭 I’m currently working on **Educational Website - Sajha Entrance and ecommerce website**
 
 - 🌱 I’m currently learning **React**
 
